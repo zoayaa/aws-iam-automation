@@ -23,14 +23,18 @@
 
 ### Identity Provisioning
 - All users from the CSV were successfully created with the correct naming conventions.
-- src: <img width="1919" height="860" alt="image" src="https://github.com/user-attachments/assets/222cf998-55e5-47c4-8030-895b11b6503e" />
+  
+  <img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/e44a1ea6-d2e2-4cab-8818-3a776125043b" />
 
 ### Group Membership
 - Verified that each user has been correctly assigned to their respective departmental group.
-- src: <img width="1919" height="870" alt="image" src="https://github.com/user-attachments/assets/963374f7-4619-4c8f-a191-e0d643108c22" />
+  
+  <img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/cd0480e5-b133-4d2a-bcbe-2105b7c2bc60" />
+
 
 ### Policy Attachment (Permissions)
 - Confirmed that the AmazonS3ReadOnlyAccess policy is attached to the group level, granting users immediate access to required resources.
-- src: <img width="1915" height="866" alt="image" src="https://github.com/user-attachments/assets/075f6b0e-2754-4a8e-8bf7-8f6a69bdf6f9" />
+  
+  <img width="1901" height="866" alt="image" src="https://github.com/user-attachments/assets/b145df31-0f23-4b1f-8cbb-06ce5328e200" />
 
 
